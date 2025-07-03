@@ -3,6 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Lista e Gjërave për të Bërë</title>
+  
+    <style>
+    body {
+        background-color: #e6f2ff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    h2 {
+        color: #00509e;
+    }
+</style>
 </head>
 <body>
 <h2>Lista e gjerave per te bere</h2>
