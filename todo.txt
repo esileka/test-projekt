@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista e Gjërave për të Bërë</title>
+</head>
+<body>
+<h2>Lista e gjerave per te bere</h2>
+<ul>
+<li>Pastro dhomen</li>
+<li>Gatuaj dreken</li>
+<li>Bli ushqim per macen </li>
+<li>Shkruaj email per pune</li>
+<li>Lexo nje kapitull libri</li>
+
+</ul>
+
+<h2> Gjerat e perfunduara</h2>
+<li>Kujdesu per kopshtin</li>
+<liv>Telefono mjekun </liv>
+<footer>
+        &copy; 2025 Lista ime e detyrave
+    </footer>
+</body>
+</html>
