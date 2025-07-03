@@ -22,12 +22,17 @@
 <li>Bli ushqim per macen </li>
 <li>Shkruaj email per pune</li>
 <li>Lexo nje kapitull libri</li>
+<li>Shkruaj dokumentacionin</li>
 
 </ul>
 
 <h2> Gjerat e perfunduara</h2>
 <li>Kujdesu per kopshtin</li>
-<liv>Telefono mjekun </liv>
+<li>Telefono mjekun </li>
+
+
+
+
 <footer>
         &copy; 2025 Lista ime e detyrave
     </footer>
